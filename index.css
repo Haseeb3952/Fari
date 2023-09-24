@@ -14,9 +14,11 @@ body{
 #header{
     width:100%;
     height:100vh;
-    background-image: url(pictures/backgroun.png) ;
-    background-size: cover;
-    background-position: center;
+    background-image: url(pictures/girl.png) ;
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .container{
     padding: 10px 10%;
